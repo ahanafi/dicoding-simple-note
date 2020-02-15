@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Simple Note</string>
+    <string name="date">YYYY-MM-DD</string>
+    <string name="title">Title of my note</string>
+    <string name="description">Lorem ispum dolor sit amet</string>
+    <string name="submit">SIMPAN</string>
+    <string name="delete">HAPUS</string>
+</resources>
